@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 20px 0;
+  padding: 20px;
+  border: 2px solid #585555;
+  border-radius: 5px;
+}
+
+.label {
+  margin-bottom: 10px;
+}
+
+.button {
+  width: 130px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: cadetblue;
+  color: azure;
+  outline: none;
+}

@@ -1,0 +1,18 @@
+.item {
+  margin: 20px 0;
+  font-size: 17px;
+}
+
+.deleteBtn {
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: rgb(241, 238, 234);
+  border: 1px solid black;
+  font-size: 14px;
+}
+
+.deleteBtn:hover {
+  background-color: coral;
+  color: white;
+}
